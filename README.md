@@ -1,7 +1,7 @@
-A simple widget for waybar that acts as a lofi girl radio fdor live music for mpv
+A simple widget for waybar that acts as a lofi girl radio for live music through mpv
 
 it has an equalizer animation
-it can be paused/resumed with left click
+it can be paused/resumed with left click (animation follows)
 switch stations with mouse wheel
 middle click for opening mpv
 right click toggles the animation
