@@ -4,6 +4,7 @@ it has an equalizer animation
 it can be paused/resumed with left click
 switch stations with mouse wheel
 middle click for opening mpv
+right click toggles the animation
 
 edit the stations/icons/colors as you please
 
