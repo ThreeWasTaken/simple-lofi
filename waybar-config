@@ -1,0 +1,10 @@
+    "custom/simple_lofi": {
+      "exec": "~/.config/waybar/scripts/simple-lofi.sh show",
+      "interval": 1,
+      "tooltip": false,
+      "on-click": "bash ~/.config/waybar/scripts/simple-lofi.sh toggle",
+      "on-click-right": "bash ~/.config/waybar/scripts/simple-lofi.sh right",
+      "on-click-middle": "bash ~/.config/waybar/scripts/simple-lofi.sh middle",
+      "on-scroll-up": "bash ~/.config/waybar/scripts/simple-lofi.sh up",
+      "on-scroll-down": "bash ~/.config/waybar/scripts/simple-lofi.sh down"
+    },
